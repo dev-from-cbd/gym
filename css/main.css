@@ -42,9 +42,19 @@ section {
   padding-right: 1rem;
   padding-bottom: 1rem;
 
-  height: 78.38vh;
-
+  /*
   background: #d7d6d8;
+  */
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+  position: relative;
+  display: inline-block;
+
+  margin-bottom: 1rem;
+
+  left: 42.5%;
 }
 
 /* Style The Dropdown Button */
@@ -55,14 +65,9 @@ section {
   font-size: 16px;
   border: none;
   cursor: pointer;
-}
 
-/* The container <div> - needed to position the dropdown content */
-.dropdown {
-  position: relative;
-  display: inline-block;
-
-  margin-bottom: 1rem;
+  min-width: 13.7rem;
+  width: 13.7rem;
 }
 
 /* Dropdown Content (Hidden by Default) */
@@ -70,9 +75,14 @@ section {
   display: none;
   position: absolute;
   background-color: #f9f9f9;
-  min-width: 160px;
+
+  min-width: 13.7rem;
+  width: 13.7rem;
+
   box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  /*
   z-index: 1;
+  */
 }
 
 /* Links inside the dropdown */
