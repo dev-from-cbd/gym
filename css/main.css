@@ -100,7 +100,6 @@ section {
 }
 
 .image-gallery {
-  /* Mobile first */
   display: flex;
   flex-direction: column;
   gap: 10px;
@@ -132,5 +131,10 @@ section {
 
   .image-item .img {
     width: 90vw;
+    height: 90vw;
+  }
+
+  .image-gallery .column {
+    margin-bottom: 3rem;
   }
 }
