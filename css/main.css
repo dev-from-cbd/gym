@@ -104,7 +104,6 @@ section {
 
 .image-item .img-cardio {
   width: 32.16vw;
-  /* height: 45vw; */
 }
 
 .first {
@@ -142,6 +141,11 @@ section {
   }
 
   .image-item .img {
+    width: 90vw;
+    height: 90vw;
+  }
+
+  .image-item .img-cardio {
     width: 90vw;
     height: 90vw;
   }
