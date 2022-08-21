@@ -71,6 +71,13 @@ section {
   display: block;
 }
 
+.dropdown-content .without-a {
+  color: darkgray;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
 /* Change color of dropdown links on hover */
 .dropdown-content a:hover {
   background-color: #f1f1f1;
@@ -93,6 +100,11 @@ section {
 .image-item .img {
   width: 32.16vw;
   height: 45vw;
+}
+
+.image-item .img-cardio {
+  width: 32.16vw;
+  /* height: 45vw; */
 }
 
 .first {
