@@ -155,6 +155,11 @@ section {
     height: 90vw;
   }
 
+  .image-item .img-abs {
+    width: 90vw;
+    height: 90vw;
+  }
+
   .image-gallery .column {
     margin-bottom: 2rem;
   }
