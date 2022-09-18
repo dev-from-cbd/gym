@@ -99,7 +99,6 @@ section {
 
 .image-item .img {
   width: 32.16vw;
-  height: 45vw;
 }
 
 .image-item .img-cardio {
@@ -124,7 +123,7 @@ section {
 .image-gallery .column {
   display: flex;
   flex-direction: column;
-  gap: 40px;
+  gap: 60px;
 }
 
 .image-item img {
