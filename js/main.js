@@ -54,6 +54,7 @@ class WorkoutTracker {
         </td>
         <td>
             <select class="tracker__workout">
+                <option value="abdominal-crunch-machine">Abdominal Crunch Machine</option>
                 <option value="walking">Walking</option>
                 <option value="running">Running</option>
                 <option value="outdoor-cycling">Outdoor Cycling</option>
