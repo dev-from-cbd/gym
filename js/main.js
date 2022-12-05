@@ -56,6 +56,7 @@ class WorkoutTracker {
             <select class="tracker__workout">
                 <option value="abdominal-crunch-machine">Abdominal Crunch Machine</option>
                 <option value="vertical-leg-raise-on-power-tower">Vertical Leg Raise on Power Tower</option>
+                <option value="barbell-bent-over-row">Barbell Bent-Over Row</option>
                 <option value="walking">Walking</option>
                 <option value="running">Running</option>
                 <option value="outdoor-cycling">Outdoor Cycling</option>
