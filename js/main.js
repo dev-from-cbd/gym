@@ -59,6 +59,7 @@ class WorkoutTracker {
                 <option value="barbell-bent-over-row">Barbell Bent-Over Row</option>
                 <option value="deadlift">Deadlift</option>
                 <option value="lat-pulldown">Lat Pulldown</option>
+                <option value="romanian-deadlift">Romanian Deadlift</option>
                 <option value="walking">Walking</option>
                 <option value="running">Running</option>
                 <option value="outdoor-cycling">Outdoor Cycling</option>
