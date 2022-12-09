@@ -60,6 +60,7 @@ class WorkoutTracker {
                 <option value="deadlift">Deadlift</option>
                 <option value="lat-pulldown">Lat Pulldown</option>
                 <option value="romanian-deadlift">Romanian Deadlift</option>
+                <option value="seated-rowing">Seated Rowing</option>
                 <option value="walking">Walking</option>
                 <option value="running">Running</option>
                 <option value="outdoor-cycling">Outdoor Cycling</option>
