@@ -63,6 +63,7 @@ class WorkoutTracker {
                 <option value="seated-rowing">Seated Rowing</option>
                 <option value="single-arm-dumbbell-row">Single-arm Dumbbell Row</option>
                 <option value="recumbent">Recumbent</option>
+                <option value="treadmill">Treadmill</option>
                 <option value="walking">Walking</option>
                 <option value="running">Running</option>
                 <option value="outdoor-cycling">Outdoor Cycling</option>
