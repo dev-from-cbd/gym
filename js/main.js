@@ -65,6 +65,7 @@ class WorkoutTracker {
                 <option value="recumbent">Recumbent</option>
                 <option value="treadmill">Treadmill</option>
                 <option value="upright">Upright</option>
+                <option value="barbell-flat-bench-press">Barbell Flat Bench Press</option>
                 <option value="walking">Walking</option>
                 <option value="running">Running</option>
                 <option value="outdoor-cycling">Outdoor Cycling</option>
