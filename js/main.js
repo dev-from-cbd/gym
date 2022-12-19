@@ -70,6 +70,7 @@ class WorkoutTracker {
                 <option value="back-squat">Back Squat</option>
                 <option value="deadlift">Deadlift</option>
                 <option value="dumbbell-romanian-deadlift">Dumbbell Romanian Deadlift</option>
+                <option value="leg-press">Leg Press</option>
                 <option value="walking">Walking</option>
                 <option value="running">Running</option>
                 <option value="outdoor-cycling">Outdoor Cycling</option>
