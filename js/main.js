@@ -73,6 +73,7 @@ class WorkoutTracker {
                 <option value="leg-press">Leg Press</option>
                 <option value="barbell-overhead-press">Barbell Overhead Press</option>
                 <option value="dumbbell-lateral-rises">Dumbbell Lateral Rises</option>
+                <option value="hack-squat">Hack Squat</option>
                 <option value="walking">Walking</option>
                 <option value="running">Running</option>
                 <option value="outdoor-cycling">Outdoor Cycling</option>
